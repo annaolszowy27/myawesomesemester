@@ -1,12 +1,12 @@
 ---
 course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_code: "CMST 4714"
+course_title: "Communication Senior Seminar"
+meeting_time: "MWF 2:30–3:45 PM"
+location: "McBryde Hall 322"
+instructor_name: "Professor Carlos Evia"
 instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
