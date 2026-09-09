@@ -5,7 +5,6 @@ course_title: "Communication Senior Seminar"
 meeting_time: "MWF 2:30–3:45 PM"
 location: "McBryde Hall 322"
 instructor_name: "Professor Carlos Evia"
-instructor_title: "Assistant Professor"
 instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
