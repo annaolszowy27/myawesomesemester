@@ -4,7 +4,7 @@ course_code: "MKTG 4554"
 course_title: "Principles of Professional Selling"
 meeting_time: "MWF 10:00–11:00 AM"
 location: "Hutcheson Hall 209"
-instructor_name: "Professor Jordan Duran"
+instructor_name: "Professor Iqbal Ahmed"
 instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
