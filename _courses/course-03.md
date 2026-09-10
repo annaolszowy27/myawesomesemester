@@ -5,7 +5,7 @@ course_title: "Principles of Professional Selling"
 meeting_time: "MWF 10:00–11:00 AM"
 location: "Hutcheson Hall 209"
 instructor_name: "Professor Iqbal Ahmed"
-instructor_department: "Pamplin School of Business"
+instructor_department: "Pamplin College of Business"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
