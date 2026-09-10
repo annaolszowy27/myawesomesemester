@@ -4,7 +4,7 @@ course_code: "PR 4074"
 course_title: "Organizational Communication"
 meeting_time: "W 5:30 – 8:15 PM"
 location: "McBryde Hall 218
-instructor_name: "Professor Duran"
+instructor_name: "Professor Jordan Duran"
 instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
