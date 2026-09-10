@@ -3,8 +3,8 @@ course_number: 5
 course_code: "MKTG 4054"
 course_title: "Sales Technology"
 meeting_time: "TTH 12:30–1:45 PM"
-location: "McBryde Hall 218"
-instructor_name: "Professor Jordan Duran"
+location: "Lavery Hall 335"
+instructor_name: "Professor Mark Michalisin"
 instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
