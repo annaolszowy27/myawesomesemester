@@ -1,12 +1,11 @@
 ---
-course_number: 3
+course_number: 2
 course_code: "MKTG 4554"
 course_title: "Principles of Professional Selling"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Hutcheson Hall 209
-instructor_name: "Professor Iqbal Ahmed"
-instructor_title: "Professor"
-instructor_department: "Pamplin College of Business"
+meeting_time: "W 5:30–8:15 PM"
+location: "McBryde Hall 218"
+instructor_name: "Professor Jordan Duran"
+instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
