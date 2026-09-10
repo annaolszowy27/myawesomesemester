@@ -1,4 +1,3 @@
----
 course_number: 2
 course_code: "PR 4074"
 course_title: "Organizational Communication"
