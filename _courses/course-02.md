@@ -1,12 +1,11 @@
 ---
 course_number: 2
-course_code: "COMM XXXX"
-course_title: "Course Title 2"
-meeting_time: "TR 9:30–10:45 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Associate Professor"
-instructor_department: "Department Name"
+course_code: "PR 4074"
+course_title: "Organizational Communication"
+meeting_time: "W 5:30 – 8:15 PM"
+location: "McBryde Hall 218
+instructor_name: "Professor Duran"
+instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
