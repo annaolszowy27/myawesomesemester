@@ -5,7 +5,7 @@ course_title: "Sales Technology"
 meeting_time: "TTH 12:30–1:45 PM"
 location: "Lavery Hall 335"
 instructor_name: "Professor Mark Michalisin"
-instructor_department: "Department of Liberal Arts and Human Sciences"
+instructor_department: "Pamplin College of Business"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
