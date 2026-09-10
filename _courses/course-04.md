@@ -2,7 +2,7 @@
 course_number: 4
 course_code: "CMST 2064"
 course_title: "Rhetoric and Societal Change"
-meeting_time: "W 5:30–8:15 PM"
+meeting_time: "MW 4:00–5:15 PM"
 location: "McBryde Hall 218"
 instructor_name: "Professor Jordan Duran"
 instructor_department: "Department of Liberal Arts and Human Sciences"
