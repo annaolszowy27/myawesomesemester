@@ -1,8 +1,8 @@
 ---
-course_number: 1
-course_code: "CMST 4714"
-course_title: "Communication Senior Seminar"
-meeting_time: "MWF 2:30–3:45 PM"
+course_number: 2
+course_code: "PR 4074"
+course_title: "Organizational Communication"
+meeting_time: "W 5:30–8:15 PM"
 location: "McBryde Hall 322"
 instructor_name: "Professor Carlos Evia"
 instructor_department: "Department of Liberal Arts and Human Sciences"
