@@ -1,12 +1,11 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "CMST 2064"
+course_title: "Rhetoric and Societal Change"
+meeting_time: "W 5:30–8:15 PM"
+location: "McBryde Hall 218"
+instructor_name: "Professor Jordan Duran"
+instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
