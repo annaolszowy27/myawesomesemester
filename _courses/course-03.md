@@ -3,7 +3,7 @@ course_number: 2
 course_code: "MKTG 4554"
 course_title: "Principles of Professional Selling"
 meeting_time: "MWF 10:00–11:00 AM"
-location: "McBryde Hall 218"
+location: "Hutcheson Hall 209"
 instructor_name: "Professor Jordan Duran"
 instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
