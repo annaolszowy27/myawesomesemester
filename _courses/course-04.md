@@ -3,8 +3,8 @@ course_number: 4
 course_code: "CMST 2064"
 course_title: "Rhetoric and Societal Change"
 meeting_time: "MW 4:00–5:15 PM"
-location: "McBryde Hall 218"
-instructor_name: "Professor Jordan Duran"
+location: "G. Burke Johnston Student Center 100"
+instructor_name: "Professor Buddy Howell"
 instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
