@@ -1,12 +1,11 @@
 ---
 course_number: 5
-course_code: "COMM XXXX"
-course_title: "Course Title 5"
-meeting_time: "MW 3:30–4:45 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Senior Instructor"
-instructor_department: "Department Name"
+course_code: "MKTG 4054"
+course_title: "Sales Technology"
+meeting_time: "TTH 12:30–1:45 PM"
+location: "McBryde Hall 218"
+instructor_name: "Professor Jordan Duran"
+instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
