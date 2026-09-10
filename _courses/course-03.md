@@ -1,5 +1,5 @@
 ---
-course_number: 2
+course_number: 3
 course_code: "MKTG 4554"
 course_title: "Principles of Professional Selling"
 meeting_time: "MWF 10:00–11:00 AM"
