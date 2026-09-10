@@ -1,12 +1,12 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_code: "MKTG 4554"
+course_title: "Principles of Professional Selling"
+meeting_time: "MWF 10:10–11:00 AM"
+location: "Hutcheson Hall 209
+instructor_name: "Professor Iqbal Ahmed"
 instructor_title: "Professor"
-instructor_department: "Department Name"
+instructor_department: "Pamplin College of Business"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
