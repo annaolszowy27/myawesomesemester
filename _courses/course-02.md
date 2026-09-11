@@ -29,10 +29,9 @@ Duran has contributed to multiple academic research papers including:
 
 - “None of us wanted to be at this party, but what a guest list”: How technology workers position themselves on LinkedIn following layoffs
 CG Endacott, L Millender, J Duran, M Wilson - Communication Research, 2025
-- Electronic communication*
-A Blanchard, J Duran, J Lewis - 2016
-- The Paradoxical Effects of Entitativity on Workgroup Performance
-Anita Blanchard, Jordan M. Duran
+- Electronic communication by A Blanchard, J Duran, J Lewis - 2016
+- The Paradoxical Effects of Entitativity on Workgroup Performance by Anita Blanchard, Jordan M. Duran
+- Expanding small group dynamics: bridging organizational sciences and social psychology by A Blanchard, J Duran - Handbook of Experimental Social Psychology, 2025
 
 ### Service and outreach
 
