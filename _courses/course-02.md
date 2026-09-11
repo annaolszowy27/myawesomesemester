@@ -35,6 +35,4 @@ CG Endacott, L Millender, J Duran, M Wilson - Communication Research, 2025
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Outside of the classroom, Duran has been apart of many research collaborations including a Research Internship at Microsoft and Breakthrough Central Texas. 
