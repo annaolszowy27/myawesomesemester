@@ -17,7 +17,7 @@ This course details the theory and practice that goes along with personal sellin
 
 ## About Professor Iqbal Ahmed 
 
-Professor Iqbal Ahmed is an instructor in the Pamplin College of Business at Virginia Tech. He first attended the University of Texas at Arlington where he earned his Bachelor of Science in Biology, then his Masters in Microbiology at University of Texas at Tyler. He then decided to pivot and went back to school to get a Master of Business Administration in Business-Finance. A couple years later he earned his Masters in Marketing and lastly his PHD from Virginia Tech in Marketing. He has been at Virginia Tech for a bit now and enjoys teaching in the College of Business. 
+Professor Iqbal Ahmed is an instructor in the Pamplin College of Business at Virginia Tech. He first attended the University of Texas at Arlington where he earned his Bachelor of Science in Biology, then his Masters in Microbiology at University of Texas at Tyler. He then decided to pivot and went back to school to get a Master of Business Administration in Business-Finance. A couple years later he earned his Masters in Marketing and lastly his PHD from Virginia Tech in Marketing. He has been at Virginia Tech for a bit now and enjoys teaching in the College of Business. Professor Ahmed is motivated to help his students find jobs post-graduation by bringing in companies to class who are looking to hire. He shares opportunities when they are happening on campus such as Sales Industry Day and encourages students to do their best all the time. 
 
 ### Research interests
 
