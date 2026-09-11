@@ -10,7 +10,7 @@ instructor_department: "Department of Liberal Arts and Human Sciences"
 
 
 
-## About this course
+## About Rhetoric and Societal Change
 
 Write a short paragraph about the course itself: what it covers, why you're taking
 it, and what you're hoping to get out of it this semester.
