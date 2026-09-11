@@ -15,11 +15,9 @@ instructor_department: "Pamplin College of Business"
 This course details the theory and practice that goes along with personal selling, specifically B2B sales and the interpersonal skills needed. Also taught in this class is acquiring the skills to work with clients, understand the professional sales industry today, enhance written and oral communication skills, and be able to execute sales presentations. I am taking it because it is a required course for my minor, Professional Sales, but am interested in learning more about the processes involved in selling. I hope to learn more about what it takes to successfully maintain and curate relationships with clients as well as furthering my knowledge on the world of B2B sales. 
 
 
-## About Professor Name
+## About Professor Iqbal Ahmed 
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Iqbal Ahmed is an instructor in the Pamplin College of Business at Virginia Tech. He first attended the University of Texas at Arlington where he earned his Bachelor of Science in Biology, then his Masters in Microbiology at University of Texas at Tyler. He then decided to pivot and went back to school to get a Master of Business Administration in Business-Finance. A couple years later he earned his Masters in Marketing and lastly his PHD from Virginia Tech in Marketing. He has been at Virginia Tech for a bit now and enjoys teaching in the College of Business. 
 
 ### Research interests
 
