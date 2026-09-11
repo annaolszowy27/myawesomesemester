@@ -30,4 +30,4 @@ IU Ahmed - 2026
 
 ### Service and outreach
 
-Along with being a professor at Virginia Tech, Ahmed has his own firm called Austin Business Consulting which he is the founder of. There they focus on marketing research and Integrated Marketing Communication.
+Along with being a professor at Virginia Tech, Ahmed has his own firm called Austin Business Consulting which he is the founder of. There, they focus on marketing research and Integrated Marketing Communication.
