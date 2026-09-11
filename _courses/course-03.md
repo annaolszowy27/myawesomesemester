@@ -10,7 +10,9 @@ instructor_department: "Pamplin College of Business"
 
 
 
-## About this course
+## About Principles of Professional Selling
+
+This course details the theory and practice that goes along with personal selling, specifically B2B sales and the interpersonal skills needed. Also taught in this class is acquiring the skills to work with clients, understand the professional sales industry today, enhance written and oral communication skills, and be able to execute sales presentations. I am taking it because it is a required course for my minor, Professional Sales, but am interested in learning more about the processes involved in selling. I hope to learn more about what it takes to successfully maintain and curate relationships with clients as well as furthering my knowledge on the world of B2B sales. 
 
 Write a short paragraph about the course itself: what it covers, why you're taking
 it, and what you're hoping to get out of it this semester.
