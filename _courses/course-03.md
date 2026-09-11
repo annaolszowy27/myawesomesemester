@@ -21,20 +21,13 @@ Professor Iqbal Ahmed is an instructor in the Pamplin College of Business at Vir
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+The main research area Ahmed focuses on is marketing research and how clients or consumers use AI in a time of loneliness or isolation due to outside factors. 
 
-### Publications
+### Publication
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Social Robots for Human Companionship: Stigma Perceptions, Social Orientation, and Design Preferences
+IU Ahmed - 2026
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Along with being a professor at Vriginia Tech, Ahmed has his own firm that 
