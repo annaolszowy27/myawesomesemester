@@ -16,9 +16,7 @@ Communication Senior Seminar is a course that's content changes each semester ba
 
 ## About Professor Carlos Evia
 
-Professor Carlos Evia has multiple roles within the College of Liberal Arts and Human Sciences at Virginia Tech including Chief Technology Officer, Associate Dean of Strategic Initiatives, as well as a professor. He has earned multiple degrees including a PHD in Technical Communication and Rhetoric, a masters in Computer Systems, and a bachelors in Communication Science. His research primarily focuses on creating technological solutions for communication issues that happen within a professional environment. While he is teaching, his goal is to inform students of the right or useful ways of working with technology.   Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Carlos Evia has multiple roles within the College of Liberal Arts and Human Sciences at Virginia Tech including Chief Technology Officer, Associate Dean of Strategic Initiatives, as well as a professor. He has earned multiple degrees including a PHD in Technical Communication and Rhetoric, a masters in Computer Systems, and a bachelors in Communication Science. His research primarily focuses on creating technological solutions for communication issues that happen within a professional environment. While he is teaching, his goal is to inform students of the right or useful ways of working with technology. Professor Evia is a vibrant and engaging instructor, who creates a learning atmosphere that makes students feel comfortable participating. His welcoming presence and sense of humor makes his class something to look forward to in the day. 
 
 ### Research interests
 
