@@ -20,9 +20,7 @@ Professor Carlos Evia has multiple roles within the College of Liberal Arts and 
 
 ### Research interests
 
-The area of interest Professor Evia mostly focuses on, as previously mentioned, is the relationship between technology and how it intertwines with human communication. He helps connect people discover how they can combine what they are good at with the new AI technologies, making life and one's job easier. Specifically, his work on Darwin Information Typing Architecture (DITA) Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+The area of interest Professor Evia mostly focuses on, as previously mentioned, is the relationship between technology and how it intertwines with human communication. He helps connect people discover how they can combine what they are good at with the new AI technologies, making life and one's job easier. Specifically, his work on Darwin Information Typing Architecture (DITA) and Lightweight DITA are notable. He is understanding what keeps humans the vital communicators we have been known to be, as well as the ways AI is digesting and giving back information. 
 
 ### Publications
 
