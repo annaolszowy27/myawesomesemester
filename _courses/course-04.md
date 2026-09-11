@@ -16,7 +16,7 @@ Rhetoric and Societal Change is a class that teaches theories and concepts surro
 
 ## About Professor Buddy Howell
 
-Write a short bio paragraph about your professor: their academic background, what
+Professor Buddy Howell is a well-known instructor at Virginia Tech and in the School of Communication. He teaches a wide variety of classes such as Persuasion, Rhetoric and Societal Change, First-Semester Experience in Comm, and more.  Write a short bio paragraph about your professor: their academic background, what
 they teach, and anything else that gives your friends and family a sense of who
 they are.
 
