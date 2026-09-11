@@ -8,10 +8,7 @@ instructor_name: "Professor Buddy Howell"
 instructor_department: "Department of Liberal Arts and Human Sciences"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
+
 
 ## About this course
 
