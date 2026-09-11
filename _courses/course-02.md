@@ -15,11 +15,9 @@ instructor_department: "Department of Liberal Arts and Human Sciences"
 
 This course dives into what communication means within a workplace, group setting, or network where organizational theory can be put into place. It focuses mostly on theories or concepts that will be of help when working with others or observing a specific environment. For example, communication and management message systems and how that can impact decision-making. It involves a good deal of analyzing and self-reflection to understand the contents. Relating many of these concepts back to personal life experiences proves to be beneficial when learning about organizational communication. I am taking this course because a large reason of why I chose my major, Communication, is talked about throughout. The importance of communication in different settings and the role it plays has always been fascinating. I am hoping to further my comprehension of these concepts so that I can eventually implement them in my place of work.
 
-## About Professor Name
+## About Professor Jordan Duran
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Jordan Duran is new to Virginia Tech, with this year being his first at the university. He earned his Bachelor of Science degree in Applied Sociology at Texas State University. He then went to the University of North Carolina at Charlotte where he got his PHD in Organizational Science. His teaching style is, unironically, very organized and understandable. He allows the class time to interact with each other and share personal stories in order to better understand what is being taught. Duran is very open to questions, comments, and is very kind. 
 
 ### Research interests
 
