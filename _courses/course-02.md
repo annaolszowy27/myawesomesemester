@@ -21,9 +21,7 @@ Professor Jordan Duran is new to Virginia Tech, with this year being his first a
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+The main area of his research includes electronic communication, organizational communication, and social psychology. This includes understanding how or why poeple interact with technology the way they do, how different groups interact, and how this can interact workplace settings. 
 
 ### Publications
 
