@@ -32,6 +32,4 @@ The area of interest Professor Evia mostly focuses on, as previously mentioned, 
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Beyond the classroom or office, Evia is involved with Tech for Humanity which further helps staff and students understand the contents of technology and how to use it properly. This is something that stems to all majors with the College of Liberal Arts and Human Sciences. He also works alongside VT IT Council and the Division of Information Technology as part of his role as CTO.
