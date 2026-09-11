@@ -12,8 +12,7 @@ instructor_department: "Department of Liberal Arts and Human Sciences"
 
 ## About Rhetoric and Societal Change
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+Rhetoric and Societal Change is a class that teaches theories and concepts surrounding rhetoric. This course encapsulates thousands of years of rhetorical views on communication, involving the Greeks and their philosophies. It also touches on some persuasive methods and how the evolution of rhetorical theories has changed over time. 
 
 ## About Professor Name
 
