@@ -11,10 +11,9 @@ instructor_department: "Department of Liberal Arts and Human Sciences"
 
 
 
-## About this course
+## About Organizational Communication
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This course dives into what communication means within a workplace, group setting, or network where organizational theory can be put into place. It focuses mostly on theories or concepts that will be of help when working with others or observing a specific environment. For example, communication and management message systems and how that can impact decision-making. It involves a good deal of analyzing and self-reflection to understand the contents. Relating many of these concepts back to personal life experiences proves to be beneficial when learning about organizational communication. I am taking this course because a large reason of why I chose my major, Communication, is talked about throughout. The importance of communication in different settings and the role it plays has always been fascinating. I am hoping to further my comprehension of these concepts so that I can eventually implement them in my place of work.
 
 ## About Professor Name
 
