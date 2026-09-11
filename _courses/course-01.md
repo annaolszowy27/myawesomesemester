@@ -32,4 +32,4 @@ The area of interest Professor Evia mostly focuses on, as previously mentioned, 
 
 ### Service and outreach
 
-Beyond the classroom or office, Evia is involved with Tech for Humanity which further helps staff and students understand the contents of technology and how to use it properly. This is something that stems to all majors with the College of Liberal Arts and Human Sciences. He also works alongside VT IT Council and the Division of Information Technology as part of his role as CTO.
+Beyond the classroom or office, Evia is involved with Tech for Humanity which further helps staff and students understand the contents of technology and how to use it properly. This is something that stems to all majors within the College of Liberal Arts and Human Sciences. He also works alongside VT IT Council and the Division of Information Technology as part of his role as CTO.
