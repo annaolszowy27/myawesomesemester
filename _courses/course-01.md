@@ -26,11 +26,11 @@ areas in your own words.
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
 
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Outsourcing Technical Communication (co-edited with Barry Thatcher)
+- Creating Intelligent Content with Lightweight DITA
+- Content Operations from Start to Scale
+- Technical Communication and the Discipline of Content (co-authored with Rebekka Andersen)
 
 ### Service and outreach
 
