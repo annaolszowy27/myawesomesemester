@@ -21,15 +21,18 @@ Professor Jordan Duran is new to Virginia Tech, with this year being his first a
 
 ### Research interests
 
-The main area of his research includes electronic communication, organizational communication, and social psychology. This includes understanding how or why poeple interact with technology the way they do, how different groups interact, and how this can interact workplace settings. 
+The main area of his research includes electronic communication, organizational communication, and social psychology. This includes understanding how or why poeple interact with technology the way they do, how different groups interact, and how this can affect workplace settings. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
+Duran has contributed to multiple academic research papers including: 
 
-- Citation or title of a representative publication
-- Citation or title of another publication
+- “None of us wanted to be at this party, but what a guest list”: How technology workers position themselves on LinkedIn following layoffs
+CG Endacott, L Millender, J Duran, M Wilson - Communication Research, 2025
+- Electronic communication*
+A Blanchard, J Duran, J Lewis - 2016
+- The Paradoxical Effects of Entitativity on Workgroup Performance
+Anita Blanchard, Jordan M. Duran
 
 ### Service and outreach
 
