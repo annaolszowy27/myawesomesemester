@@ -16,9 +16,7 @@ Rhetoric and Societal Change is a class that teaches theories and concepts surro
 
 ## About Professor Buddy Howell
 
-Professor Buddy Howell is a well-known instructor at Virginia Tech and in the School of Communication. He teaches a wide variety of classes such as Persuasion, Rhetoric and Societal Change, First-Semester Experience in Comm, and more.  Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Buddy Howell is a well-known instructor at Virginia Tech and in the School of Communication. He teaches a wide variety of classes such as Persuasion, Rhetoric and Societal Change, First-Semester Experience in Comm, and more. He attended Baylor University where he got his Bachelor of Arts in Speech Communication and a Masters of Arts in Communication Studies. He then got his PHD in Rhetoric and Public Affairs at Texas A&M University, making him highly qualified to teach this course. 
 
 ### Research interests
 
