@@ -12,11 +12,11 @@ instructor_department: "Department of Liberal Arts and Human Sciences"
 
 ## About Communication Senior Seminar
 
-Communication Senior Seminar is a course that's content changes each semester based on what is to be believed the most relevant topic in society. In today's time, AI is an evolving powerhouse that has many aspects or nuances that should be taught to upcoming college graduates. Knowledge about AI and the ways to use it are now valuable skills to bring to any workplace, as almost all jobs are implenmenting it in some capacity. In this specific course, we talk about how the field of communication is adapting with AI, but the argument is still that humans are needed to effectively express emotions or words that AI could never replace. Personally, I am hoping to learn more about AI and how it is expected to be used, without abusing the power it holds. What is a good balance and having the right responsibilities as the new, upcoming generation, are things I am looking to learn about in this course. 
+Communication Senior Seminar is a course that's content changes each semester based on what is to be believed the most relevant topic in society. In today's time, AI is an evolving powerhouse that has many aspects or nuances that should be taught to upcoming college graduates. Knowledge about AI and the ways to use it are now valuable skills to bring to any workplace, as almost all jobs are implementing it in some capacity. In this specific course, we talk about how the field of communication is adapting with AI, but the argument is still that humans are needed to effectively express emotions or words that AI could never replace. Personally, I am hoping to learn more about AI and how it is expected to be used, without abusing the power it holds. What is a good balance and having the right responsibilities as the new, upcoming generation, are things I am looking to learn about in this course. 
 
 ## About Professor Carlos Evia
 
-Write a short bio paragraph about your professor: their academic background, what
+Professor Carlos Evia has multiple roles within the College of Liberal Arts and Human Sciences including Chief Technology Officer, Associate Dean of Strategic Initiatives, as well as a professor. He has earned multiple degrees including a PHD in Technical Communication and Rhetoric, a masters in Computer Systems, and a bachelors in Communication Science.  Write a short bio paragraph about your professor: their academic background, what
 they teach, and anything else that gives your friends and family a sense of who
 they are.
 
