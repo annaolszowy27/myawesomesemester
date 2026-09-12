@@ -16,24 +16,21 @@ Rhetoric and Societal Change is a class that teaches theories and concepts surro
 
 ## About Professor Buddy Howell
 
-Professor Buddy Howell is a well-known instructor at Virginia Tech and in the School of Communication. He teaches a wide variety of classes such as Persuasion, Rhetoric and Societal Change, First-Semester Experience in Comm, and more. He attended Baylor University where he got his Bachelor of Arts in Speech Communication and a Masters of Arts in Communication Studies. He then got his PHD in Rhetoric and Public Affairs at Texas A&M University, making him highly qualified to teach this course. 
+Professor Buddy Howell is a well-known instructor at Virginia Tech and in the School of Communication. He teaches a wide variety of classes such as Persuasion, Rhetoric and Societal Change, First-Semester Experience in Comm, and more. He attended Baylor University where he got his Bachelor of Arts in Speech Communication and a Masters of Arts in Communication Studies. He then got his PHD in Rhetoric and Public Affairs at Texas A&M University, making him highly qualified to teach this course. He is on his 17th year at Virginia Tech and has really bought into the culture. He is community oriented and very approachable.  
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Dr. Howell's area of research involves rhetoric but specifically with U.S. presidential diplomacy, campaign, and election. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
+Listed are outlets where Dr. Howell's work has been published: 
 
-- Citation or title of a representative publication
-- Citation or title of another publication
+- Rhetoric & Public Affairs
+- American Behavioral Scientist
+- Southern Communication Journal
+- Kaid and Holtz-Bacha, ed., Encyclopedia of Political Communication.
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+As mentioned previously, Buddy Howell is very involved with his students, helping whenever he can. He has led a group for The Big Event at Virginia Tech in years past for community outreach. Notably, he has received many awards on his outstanding teaching including the Excellence in Teaching First-Year Seminars Award from the National Resource Center for the First-Year Experience and Students in Transition. 
