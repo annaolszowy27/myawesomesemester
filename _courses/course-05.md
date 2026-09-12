@@ -21,9 +21,7 @@ Professor Mark Michalisin earned his BA and MBA in Business and Political Scienc
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
+Michalisin's areas of interest to teach include Sales, Marketing, B2B Sales, and Sales Management. 
 
 ### Publications
 
