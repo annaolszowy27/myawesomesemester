@@ -21,18 +21,14 @@ Professor Mark Michalisin earned his BA and MBA in Business and Political Scienc
 
 ### Research interests
 
-Michalisin's areas of interest to teach include Sales, Marketing, B2B Sales, and Sales Management. 
+Michalisin's areas of interest to teach include Sales, Marketing, B2B Sales, and Sales Management. He also wrote his own book which gives motivational messages, implies people should build confidence, and helps readers try to better themselves. 
 
 ### Publications
 
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
+His book:
 
-- Citation or title of a representative publication
-- Citation or title of another publication
+- In The Arena: From the Boardroom to the Classroom by Mark Michalisin
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+When Professor Michalisin isn't teaching, he is helping serve as Associate Director for VT Sales Center. 
