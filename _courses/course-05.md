@@ -31,4 +31,4 @@ His book:
 
 ### Service and outreach
 
-When Professor Michalisin isn't teaching, he is helping serve as Associate Director for VT Sales Center. 
+When Professor Michalisin isn't teaching, he is helping serve as Associate Director for VT Sales Center. Notably, while at The College of Saint Rose in New York, he helped create a Student Sales Club that competed nationally. He brought the same idea to Virginia Tech and helps run the club here as well. 
