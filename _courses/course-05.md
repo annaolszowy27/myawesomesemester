@@ -16,7 +16,7 @@ Similar to Principles of Professional Selling, Sales Technology explains the pro
 
 ## About Professor Mark Michalisin 
 
-Professor Mark Michalisin earned his BA and MBA in Business and Political Science at Union College. 
+Professor Mark Michalisin earned his BA and MBA in Business and Political Science at Union College. He then became an Associate Professor of Practice at Virginia Tech in the Pamplin College of Business.  
 
 ### Research interests
 
