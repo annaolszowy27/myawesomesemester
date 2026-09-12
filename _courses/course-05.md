@@ -14,11 +14,9 @@ instructor_department: "Pamplin College of Business"
 
 Similar to Principles of Professional Selling, Sales Technology explains the processes of selling. However, the big difference is that this course explains more of the Customer Relationship Management (CRM) technologies. Salesforce is used throughout the semester and students will eventually earn badges and certifications with that CRM. This business class includes hands-on experiences and gives students opportunities to apply their skills to real world simulations. I am taking this course because it is required for my minor but am still excited to learn more about CRM. 
 
-## About Professor Name
+## About Professor Mark Michalisin 
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Mark Michalisin earned his BA and MBA in Business and Political Science at Union College. 
 
 ### Research interests
 
