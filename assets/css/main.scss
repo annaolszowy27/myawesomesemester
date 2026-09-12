@@ -8,21 +8,19 @@
 // ------------------------------------------------------------------
 
 :root {
-  --color-bg: #fbfaf7;
-  --color-surface: #ffffff;
-  --color-ink: #2d1b22;
-  --color-ink-soft: #6b5b61;
-  --color-line: #d8cdd0;
-  --color-accent: #861f41;
-  --color-white: #ffffff;
+--color-bg: #ffffff;
+--color-surface: #ffffff;
+--color-ink: #111111;
+--color-ink-soft: #555555;
+--color-line: #cccccc;
+--color-accent: #000000;
+--color-white: #ffffff;
 
-  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  --font-display: Georgia, "Times New Roman", serif;
+--font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+--font-display: Georgia, "Times New Roman", serif;
 
-  --radius: 10px;
-  --shadow: 0 4px 14px rgba(45, 27, 34, 0.08);
-}
-}
+--radius: 0px;
+--shadow: none;
 
 * { box-sizing: border-box; }
 
