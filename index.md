@@ -4,7 +4,5 @@ title: Home
 ---
 
 <div class="home-intro">
-<p>Welcome! This is a template for a "My Awesome Semester" course-and-teacher site. Replace this
-introduction with your own &mdash; a couple of sentences about your major, this semester, and what
-your friends and family are about to learn about your professors.</p>
+<p>Welcome! Here is where you can read all about my upcoming courses for the Fall 2026 semester! My major is still Communication and I am very excited to further my knowledge in that area. However, I have a new minor, Professional Sales, so there will be some new content to learn as well. I am taking five courses this semester, all very interesting with very capable professors. </p>
 </div>
